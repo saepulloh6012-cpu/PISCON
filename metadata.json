@@ -1,0 +1,6 @@
+{
+  "name": "Box Counter Vision Script Configurator",
+  "description": "Deterministic, high-precision Python script generator for box counting via white sticker detection. Adjust parameters and download the pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
